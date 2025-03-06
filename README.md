@@ -1,5 +1,5 @@
 # 💫 About Me:
-hallo guys 
+Hi there! 👋 I'm Fahrul Fahmi, a passionate Frontend Developer with experience in ReactJS, TypeScript, and Tailwind CSS. I enjoy building modern web applications that are responsive, fast, and user-friendly 
 
 
 ## 🌐 Socials:
